@@ -4,3 +4,6 @@
 
 2º bloco: Carregar a base 'Base Varejo.csv' e com pandas e mostrar: número de registros, colunas e tipos de dados.
 
+3º bloco: Funções para tranformar colunas do dataframe em Strings(limpar_texto), Integer(limpar_inteiro) e Float(limpar_decimal) e Datetime(limpar_data)
+
+4º bloco: efetivamente transformar as colunas nos tipos corretos e no final realizar a verificação dos tipos
